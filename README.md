@@ -1,13 +1,11 @@
 <h1 align="center">Hi there, I'm JD 👋</h1>
 <h3 align="center">I'm a Mechanical Engineer 🎓</h3>
 
-- 👷 I'm a 3rd year undergraduate student studying Mechanical Engineering and Applied Mathematics
-
-- 📚 I’m passionate about Physics and Engineering
+- 👷 I'm a 4th year undergraduate student studying Mechanical Engineering and Applied Mathematics
 
 - 🧑‍🔬 I have always been fascinated by nature and science, trained and educated as an engineer gives me the tools available to explore these interests
 
-- 🧑‍💻 My research interest includes but not limited to Fluids, Advance Manufacturing and PDEs
+- 🧑‍💻 My interest includes but not limited to Fluids, PDEs and Quantative Finance
 
 - 📝 Some of my published papers are available on [Google Scholar](https://scholar.google.com/citations?user=r9UsvRMAAAAJ&hl=en)
 
